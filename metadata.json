@@ -1,0 +1,5 @@
+{
+  "name": "Automatic Reverse Engineering Analyzer",
+  "description": "An offline tool to automatically analyze decompiled C/C++ code. Upload files to scan for API keys, endpoints, credentials, and other critical information, all processed securely in your browser.",
+  "requestFramePermissions": []
+}
